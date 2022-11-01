@@ -1,1 +1,0 @@
-document.querySelector('h1').textContent = 'js is connected to index';
