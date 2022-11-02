@@ -46,6 +46,15 @@ module.exports = {
                 }
             },
             {
+                //https://stackoverflow.com/a/67534024/17627866
+                test: /\.html$/,
+                use: [
+                  {
+                    loader: 'html-loader'
+                  }
+                ]
+            },
+            {
                 test: /\.(woff|woff2|eot|ttf|otf)$/i,
                 type: 'asset/resource',
                 generator: {
