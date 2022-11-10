@@ -16,6 +16,7 @@ Clone project:
 ```sh
 git clone git@github.com:creme332/webpack-template.git
 ```
+>⚠ If you are placing this project in another project already having a `.git` folder, delete the `.git` folder in this project to prevent interference.
 
 In `package.json`, update project name and description.
 
