@@ -1,5 +1,5 @@
 // import my styles
-import "./reset.css";
-import "./styles.css";
+import "./styles/reset.css";
+import "./styles/styles.css";
 
 document.querySelector(".box").textContent = "js works";
