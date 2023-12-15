@@ -20,10 +20,7 @@ A webpack template for your vanilla JavaScript projects with automatic deploymen
 There are two ways to use this template. In either ways, you must edit the project name and description in `package.json`. 
 
 ### Method 1
-Click on the `Use this template` option:
-
-![Alt text](image.png)
-
+Click on the `Use this template` option at the top right corner of the Github page.
 ### Method 2
 Clone project:
 ```sh
